@@ -8,7 +8,7 @@ const Navbar: () => JSX.Element = () => {
       <Link className="text-2xl font-bold text-gradient" to="/">
         ResumeIND
       </Link>
-      <Link to="/upload-resume" className="primary-button w-fit">
+      <Link to="/upload" className="primary-button w-fit">
         Upload Resume
       </Link>
     </nav>
